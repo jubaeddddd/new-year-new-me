@@ -97,3 +97,23 @@
 }
 
 /* footer styles */
+footer{
+   background-color: #151414;
+   display: flex;
+   justify-content: space-around;
+   padding: 100px 0;
+}
+.column{
+   color: white;
+}
+.column-mail{
+   padding-top: 15px;
+   padding-bottom: 15px;
+   padding-left: 9px;
+   padding-right: 50px;
+   background-color: #151414;
+   color: white;
+   border: 1px solid white;
+   border-radius: 5px;
+   text-decoration: none;
+}
